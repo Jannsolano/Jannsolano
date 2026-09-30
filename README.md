@@ -5,14 +5,14 @@ My name is Jann Michael Adolfo Solano, I am a QA Engineer and student.
 ```JavaScript
 const me = {
   name: 'Jann Michael',
-  age: 29,
+  age: 30,
   company: 'Bilhon',
-  langs: ['JavaScript(TypeScript)'],
+  langs: ['JavaScript(TypeScript)', 'Python'],
   likesToDo: ['Playing games ', 'watch anime', 'Coding', 'waste a lot of time in voice calls'],
   favorite: {
     food: 'Barbecue',
     color: ['black','blue'],
-    games: ['Skyrim','DMC3/4/5', 'AC Black flag', 'L4D2'],
+    games: ['Skyrim','DMC3/4/5', 'AC Black flag', 'L4D2', 'Cyberpunk 2077'],
     song: 'Heavy Metal'
   }
 }
@@ -23,5 +23,3 @@ const me = {
 ## Git stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jannsolano&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-![Jannsolano's github stats](https://github-readme-stats.vercel.app/api?username=Jannsolano&show_icons=true&theme=dracula)
